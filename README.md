@@ -35,18 +35,18 @@ O sistema foi projetado com foco em organização, usabilidade e facilidade de e
 
 ## Demonstração do sistema
 ### Tela inicial
-![Tela inicial](assets/img/tela-inicial.png)
+![Tela inicial](assets/img/tela-inicial.PNG)
 
 ### Tela login
-![Tela login](assets/img/tela-login.png)
+![Tela login](assets/img/tela-login.PNG)
 
 ### Agendamento
-![Agendamento](assets/img/tela-agendamento.png)
-![Agendamento](assets/img/tela-agendamento2.png)
+![Tela Agendamento](assets/img/tela-agendamento.PNG)
+![Tela Agendamento2](assets/img/tela-agendamento2.PNG)
 
 ### Tela cadastro
-![Tela cadastro](assets/img/tela-cadastro.png)
-![Tela cadastro](assets/img/tela-cadastro2.png)
+![Tela cadastro](assets/img/tela-cadastro.PNG)
+![Tela cadastro2](assets/img/tela-cadastro2.PNG)
 ---
 
 ## Diferenciais do projeto
